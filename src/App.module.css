@@ -1,3 +1,4 @@
+@reference "tailwindcss";
 .appWrapper {
   @apply min-h-screen py-8 px-4 sm:px-8;
 }

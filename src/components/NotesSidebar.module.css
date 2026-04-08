@@ -1,3 +1,4 @@
+@reference "tailwindcss";
 .sidebarContainer {
   @apply min-h-[500px] md:min-h-0 md:h-full p-6 md:p-8 flex flex-col bg-white;
 }
